@@ -7,3 +7,6 @@
 
 ## Added Features
 - style.css: UI styling improvements
+
+## Logger Module
+- logger.js: Advanced logging functions
